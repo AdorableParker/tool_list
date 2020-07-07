@@ -9,3 +9,6 @@
 
 `Restorator` 动态链接库资源文件修改工具
 > 用于修改Dll动态链接库的资源文件
+
+`Recuva` 磁盘误删除文件恢复工具
+> 扫描磁盘恢复误删除文件 *https://www.ccleaner.com/recuva/download/*
