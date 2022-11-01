@@ -34,6 +34,9 @@
 `ScreenToGif` Gif录制与编辑器
 > https://www.screentogif.com/
 
+`TranslucentTB ` 任务栏透明
+> https://github.com/TranslucentTB/TranslucentTB
+
 `Advanced Renamer` 高级重命名
 > 文件和文件夹的免费和快速批量重命名实用程序 *https://www.advancedrenamer.com/*
 > 
